@@ -3,24 +3,24 @@
     :title: "Adventures of Pippi Longstocking"
     :author: "Astrid Lindgren"
   :available: true
-  :return_date: 
+  :return_date: ""
 - :book:
     :title: "Pippi Longstocking gar ombord"
     :author: "Astrid Lindgren"
   :available: true
-  :return_date: 
+  :return_date: ""
 - :book:
     :title: "Harry Potter"
     :author: "J.K. Rowling"
   :available: true
-  :return_date: 
+  :return_date: ""
 - :book:
     :title: "Alfons Aberg"
     :author: "Gunilla Bergstrom"
   :available: true
-  :return_date: 
+  :return_date: ""
 - :book:
     :title: "Alfons Aberg och soldatpappan"
     :author: "Gunilla Bergstrom"
   :available: true
-  :return_date: 
+  :return_date: ""
